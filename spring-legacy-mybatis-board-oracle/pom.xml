@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.example</groupId>
-	<artifactId>web</artifactId>
+	<artifactId>spring-legacy-mybatis-board-oracle</artifactId>
 	<name>spring-legacy-mybatis-board-oracle</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
